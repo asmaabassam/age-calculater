@@ -1,3 +1,6 @@
+@media screen and (min-width: 600px) {
+
+
 body {
   background-color: hsl(0, 0%, 86%);
   font-family: "Courier New", Courier, monospace;
@@ -95,6 +98,7 @@ background-color: black;}
 
 .result span {
   color: hsl(259, 100%, 65%);
+}
 }
 
 @media only screen and (max-width: 600px) {
